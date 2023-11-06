@@ -65,6 +65,21 @@ Open terminal and try execute some kali linux commands
 ### Bypass any warning boxes, double-click the file, and allow it to run.
 ![image](https://github.com/Jayabharathi3/Compromising-windows-using-Metasploit/assets/120367796/de441e8f-f4ac-4fd5-b6a1-385cbee9f847)
 
+### On kali give the command exploit
+![image](https://github.com/Jayabharathi3/Compromising-windows-using-Metasploit/assets/120367796/892de660-c563-4bed-b7b7-f0a88ee15a0a)
+
+### To see a list of processes, at the 
+**meterpreter > prompt,
+execute this command: ps ⇒ can see the fun.exe process running with pid 1156**
+![image](https://github.com/Jayabharathi3/Compromising-windows-using-Metasploit/assets/120367796/7128cc7e-edcd-484f-be2e-95a5732062a8)
+
+### Post Exploitation The target is now owned. Following are meterpreter commands for key capturing in the target machine keyscan_start Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
+
+![image](https://github.com/Jayabharathi3/Compromising-windows-using-Metasploit/assets/120367796/837496ea-358c-4f60-9215-9f866964031e)
+
+### keyscan_dump
+![image](https://github.com/Jayabharathi3/Compromising-windows-using-Metasploit/assets/120367796/dbb73d6c-abf1-416c-a19c-cd0d52e9c1e3)
+
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
